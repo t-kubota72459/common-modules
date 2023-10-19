@@ -6,7 +6,7 @@
 ## モーター動作命令関数
 ## モーターに左右・前進・後退の命令を出す
 ##
-## Copyright (c) 2022 Hiroshima Politechnical College.
+## Copyright (c) 2022,2023 Hiroshima Politechnical College.
 ##
 
 from microbit import *
